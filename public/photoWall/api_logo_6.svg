@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <defs>
+        <linearGradient x1="12.0162484%" y1="10.9586506%" x2="89.9244479%" y2="89.628302%" id="linearGradient-1">
+            <stop stop-color="#242021" offset="0%"></stop>
+            <stop stop-color="#211D1E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.90715166%" y1="7.13081089%" x2="43.7296944%" y2="39.8355164%" id="linearGradient-2">
+            <stop stop-color="#332D2E" offset="0%"></stop>
+            <stop stop-color="#1D1A1B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-171" transform="translate(-346.000000, -6525.000000)">
+            <g id="Group-11" transform="translate(346.000000, 6525.000000)">
+                <g id="Rectangle" fill="url(#linearGradient-1)" stroke="url(#linearGradient-2)" stroke-width="2">
+                    <rect x="1" y="1" width="162" height="162" rx="28"></rect>
+                </g>
+                <g id="Google_Photos_icon_(2020)" transform="translate(34.000000, 34.000000)">
+                    <polygon id="Path" points="0 0 96 0 96 96 0 96"></polygon>
+                    <g id="Group" transform="translate(4.948454, 4.948454)" fill-rule="nonzero">
+                        <path d="M22.0206186,20.0201013 C34.1819717,20.0201013 44.0412371,29.8778738 44.0412371,42.0407199 L44.0412371,44.0412371 L2.00051721,44.0412371 C0.895753975,44.0412371 0,43.1454831 0,42.0407199 C0,29.8778738 9.85926542,20.0201013 22.0206186,20.0201013 Z" id="Path" fill="#FBBC04"></path>
+                        <path d="M68.0623729,22.0206186 C68.0623729,34.1819717 58.2046004,44.0412371 46.0417543,44.0412371 L44.0412371,44.0412371 L44.0412371,2.00051721 C44.0412371,0.895753975 44.9369911,0 46.0417543,0 C58.2046004,0 68.0623729,9.85926542 68.0623729,22.0206186 Z" id="Path" fill="#EA4335"></path>
+                        <path d="M66.0618557,68.0623729 C53.9005025,68.0623729 44.0412371,58.2046004 44.0412371,46.0417543 L44.0412371,44.0412371 L86.081957,44.0412371 C87.1867203,44.0412371 88.0824742,44.9369911 88.0824742,46.0417543 C88.0824742,58.2046004 78.2232088,68.0623729 66.0618557,68.0623729 Z" id="Path" fill="#4285F4"></path>
+                        <path d="M20.0201013,66.0618557 C20.0201013,53.9005025 29.8778738,44.0412371 42.0407199,44.0412371 L44.0412371,44.0412371 L44.0412371,86.081957 C44.0412371,87.1867203 43.1454831,88.0824742 42.0407199,88.0824742 C29.8778738,88.0824742 20.0201013,78.2232088 20.0201013,66.0618557 Z" id="Path" fill="#34A853"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

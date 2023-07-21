@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 9</title>
+    <defs>
+        <linearGradient x1="12.0162484%" y1="10.9586506%" x2="89.9244479%" y2="89.628302%" id="linearGradient-1">
+            <stop stop-color="#242021" offset="0%"></stop>
+            <stop stop-color="#211D1E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.90715166%" y1="7.13081089%" x2="43.7296944%" y2="39.8355164%" id="linearGradient-2">
+            <stop stop-color="#332D2E" offset="0%"></stop>
+            <stop stop-color="#1D1A1B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-171" transform="translate(-865.000000, -6302.000000)">
+            <g id="Group-9" transform="translate(865.000000, 6302.000000)">
+                <g id="Rectangle" fill="url(#linearGradient-1)" stroke="url(#linearGradient-2)" stroke-width="2">
+                    <rect x="1" y="1" width="162" height="162" rx="28"></rect>
+                </g>
+                <g id="Amazon-S3-Logo" transform="translate(43.000000, 35.000000)">
+                    <polygon id="Path" fill="#E25444" points="71.3162393 16 55 47 71.3162393 78 78 74.2721519 78 19.7278481"></polygon>
+                    <polygon id="Path" fill="#7B1D13" points="71 16 38.5289421 19.7278481 22 47 38.5289421 74.2721519 71 78"></polygon>
+                    <polygon id="Path" fill="#58150D" points="5.23469388 16 0 18.3544304 0 75.6455696 5.23469388 78 38 47"></polygon>
+                    <polygon id="Path" fill="#E25444" points="5 16 38 25.2303283 38 69.6403724 5 78"></polygon>
+                    <polygon id="Path" fill="#58150D" points="38.017325 30 24 27.7713588 38.017325 12 52 27.7713588"></polygon>
+                    <polyline id="Path" fill="#58150D" points="52 27.7415063 38 30 24 27.7415063 24 12"></polyline>
+                    <polygon id="Path" fill="#58150D" points="38.017325 64 24 66.5533056 38.017325 80 52 66.5533056"></polygon>
+                    <polygon id="Path" fill="#7B1D13" points="37.9565795 0 24 7.44055944 24 28 38 24.0187133"></polygon>
+                    <polygon id="Path" fill="#7B1D13" points="38 35 24 36.5530942 24 57.3665015 38 59"></polygon>
+                    <polygon id="Path" fill="#7B1D13" points="38 69.5886567 24 66 24 86.5100498 38 94"></polygon>
+                    <polygon id="Path" fill="#E25444" points="52 66 38 69.5896517 38 94 52 86.5100498"></polygon>
+                    <polygon id="Path" fill="#E25444" points="38 35 52 36.5530942 52 57.3665015 38 59"></polygon>
+                    <polygon id="Path" fill="#E25444" points="38 0 52 7.44055944 52 28 38 24.0839161"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

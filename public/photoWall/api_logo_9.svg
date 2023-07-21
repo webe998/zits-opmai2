@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 14</title>
+    <defs>
+        <linearGradient x1="12.0162484%" y1="10.9586506%" x2="89.9244479%" y2="89.628302%" id="linearGradient-1">
+            <stop stop-color="#242021" offset="0%"></stop>
+            <stop stop-color="#211D1E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.90715166%" y1="7.13081089%" x2="43.7296944%" y2="39.8355164%" id="linearGradient-2">
+            <stop stop-color="#332D2E" offset="0%"></stop>
+            <stop stop-color="#1D1A1B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-171" transform="translate(-965.000000, -6524.000000)">
+            <g id="Group-14" transform="translate(965.000000, 6524.000000)">
+                <g id="Rectangle" fill="url(#linearGradient-1)" stroke="url(#linearGradient-2)" stroke-width="2">
+                    <rect x="1" y="1" width="162" height="162" rx="28"></rect>
+                </g>
+                <g id="flickr-1" transform="translate(42.000000, 63.000000)" fill-rule="nonzero">
+                    <path d="M43,18.4991649 C43,28.7157947 51.2838314,37 61.5016701,37 C71.7178388,37 80,28.7157947 80,18.4991649 C80,8.2825351 71.7178388,0 61.5016701,0 C51.2838314,0 43,8.2825351 43,18.4991649 L43,18.4991649 Z" id="Path" fill="#FF0084"></path>
+                    <path d="M0,18.4991649 C0,28.7157947 8.28216123,37 18.5,37 C28.7178388,37 37,28.7157947 37,18.4991649 C37,8.2825351 28.7178388,0 18.5,0 C8.28216123,0 0,8.2825351 0,18.4991649 Z" id="Path" fill="#0063DC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

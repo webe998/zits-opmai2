@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <defs>
+        <linearGradient x1="12.0162484%" y1="10.9586506%" x2="89.9244479%" y2="89.628302%" id="linearGradient-1">
+            <stop stop-color="#242021" offset="0%"></stop>
+            <stop stop-color="#211D1E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.90715166%" y1="7.13081089%" x2="43.7296944%" y2="39.8355164%" id="linearGradient-2">
+            <stop stop-color="#332D2E" offset="0%"></stop>
+            <stop stop-color="#1D1A1B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-171" transform="translate(-652.000000, -6302.000000)">
+            <g id="Group-8" transform="translate(652.000000, 6302.000000)">
+                <g id="Rectangle" opacity="0.808547247" fill="url(#linearGradient-1)" stroke="url(#linearGradient-2)" stroke-width="2">
+                    <rect x="1" y="1" width="162" height="162" rx="28"></rect>
+                </g>
+                <g id="Gmail_icon_(2020)" transform="translate(38.000000, 48.000000)" fill-rule="nonzero">
+                    <path d="M6,66.0170209 L20,66.0170209 L20,32.0170209 L0,17.0170209 L0,60.0170209 C0,63.3370209 2.69,66.0170209 6,66.0170209" id="Path" fill="#4285F4"></path>
+                    <path d="M68,66.0170209 L82,66.0170209 C85.32,66.0170209 88,63.3270209 88,60.0170209 L88,17.0170209 L68,32.0170209" id="Path" fill="#34A853"></path>
+                    <path d="M68,6.0170209 L68,32.0170209 L88,17.0170209 L88,9.0170209 C88,1.5970209 79.53,-2.6329791 73.6,1.8170209" id="Path" fill="#FBBC04"></path>
+                    <polyline id="Path" fill="#EA4335" points="20 32.0170209 20 6.0170209 44 24.0170209 68 6.0170209 68 32.0170209 44 50.0170209"></polyline>
+                    <path d="M0,9.0170209 L0,17.0170209 L20,32.0170209 L20,6.0170209 L14.4,1.8170209 C8.46,-2.6329791 0,1.5970209 0,9.0170209" id="Path" fill="#C5221F"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 15</title>
+    <defs>
+        <linearGradient x1="12.0162484%" y1="10.9586506%" x2="89.9244479%" y2="89.628302%" id="linearGradient-1">
+            <stop stop-color="#242021" offset="0%"></stop>
+            <stop stop-color="#211D1E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.90715166%" y1="7.13081089%" x2="43.7296944%" y2="39.8355164%" id="linearGradient-2">
+            <stop stop-color="#332D2E" offset="0%"></stop>
+            <stop stop-color="#1D1A1B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-171" transform="translate(-174.000000, -6525.000000)">
+            <g id="Group-15" transform="translate(174.000000, 6525.000000)">
+                <g id="Rectangle" fill="url(#linearGradient-1)" stroke="url(#linearGradient-2)" stroke-width="2">
+                    <rect x="1" y="1" width="162" height="162" rx="28"></rect>
+                </g>
+                <g id="Dropbox_Icon" transform="translate(38.000000, 41.000000)" fill="#007EE5" fill-rule="nonzero">
+                    <path d="M25.9433962,0 L0,16.743312 L18.0566038,31.2128409 L44,15.0896516 L25.9433962,0 Z M0,45.2689547 L25.9433962,62.2189743 L44,47.1293227 L18.0566038,31.2128409 L0,45.2689547 Z M62.2641509,62.2189743 L88,45.4756623 L70.1509434,31.2128409 L44,47.1293227 L62.2641509,62.2189743 Z M88,16.743312 L62.2641509,0 L44,15.0896516 L70.1509434,31.2128409 L88,16.743312 Z M44.2075472,50.4366436 L25.9433962,65.5262952 L18.2641509,60.3586063 L18.2641509,66.1464179 L44.2075472,81.6494845 L70.1509434,66.1464179 L70.1509434,60.3586063 L62.2641509,65.5262952 L44.2075472,50.4366436 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
